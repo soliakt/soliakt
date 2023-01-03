@@ -1,0 +1,4 @@
+- 👋 Hey there! I’m Víctor
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Java, HTML & CSS
+- 📫 Reach me out on Likedin: linkedin.com/in/victor-gimeno-64b315228
