@@ -1,4 +1,4 @@
 - 👋 Hey there! I’m Víctor
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Java, SQL, HTML & CSS
+- 🌱 I’m currently learning JAVA, SQL & DJANGO
 - 📫 Reach me out on Likedin: linkedin.com/in/victor-gimeno-64b315228
